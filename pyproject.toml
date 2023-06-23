@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Sebastián Dalceggio <sdalceggio@gmail.com>"]
 readme = "README.md"
-packages = [{include = "scripts"}]
+packages = [{include = "common_utils"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
